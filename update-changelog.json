@@ -1,11 +1,11 @@
 {
     "EspLightSon": [
         {
-		"latestVersion": "1.0",
+		"latestVersion": "2.0",
 		"releaseNotes": [
-			"- #17/04/2025 - - First release"
+			"- #17/04/2025 - - TEST"
 		],
-		"hotfix": "",
+		"hotfix": "4863e48b8050efcd746ed96d9c378aef174cc6eb1bd19b17eb452fbad41e2ab8",
 		"hotfixNotes": [""]
         }		
     ]
